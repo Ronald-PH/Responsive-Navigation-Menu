@@ -1,4 +1,4 @@
-# Responsive-Navigation-Menu
+# Simple-Responsive-Navigation-Menu
 Pure HTML &amp; CSS
 
 <b>Device-Width issue Fixed</b>
